@@ -8,7 +8,7 @@ Cornell University 2016
 
 This repo contains the original source project and a packaged executable of the Virtual Drawing, a thesis presented at Cornell University for the Masters of Architecture program.
 
-The project was developed using Unreal Engine version 4.15 for use with the HTC Vive virtual reality system
+The project was developed using Unreal Engine version 4.13.1 for use with the HTC Vive virtual reality system
 
 - The packaged executable can be found in a zip file in the Application directory
 - The source content for the Unreal project can be found in the Source directory
